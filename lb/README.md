@@ -1,5 +1,5 @@
-ASCII.go    =>  display the Ascii table
-Addition.go =>  Addition of Two numbers
+ASCII.go    =>  display the Ascii table;
+Addition.go =>  Addition of Two numbers;
 Addition1.go => give the Number from user and perform Addition operation
 Addition2.go => using function perform Addition and multiplication 
 Array.go     => create the array and accept element from user and Display the element
